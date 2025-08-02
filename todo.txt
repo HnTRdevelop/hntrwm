@@ -1,0 +1,9 @@
+- floating, tiling, monocle and fullscreen modes
+- workspaces always render stuff and don't unmap/hide windows (like in dwm)
+- X11, possible wayland in future
+- ability to send windows to background (you can't interact with them)
+- alt-tab functionality
+- customizable bar (bash-cript modules)
+- special workspaces
+- ability to minimize windows (send them to special place on bar)
+- gtk window titles
